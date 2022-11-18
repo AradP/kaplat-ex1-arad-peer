@@ -1,2 +1,1 @@
- some content
-text
+some content (irrelevant).
